@@ -1,0 +1,42 @@
+exports.Empresa = [
+    {
+        "codigo": "emp2113",
+        "nombre": "Empresa Don Pepito",
+        "direccion": "San Martin 1211",
+        "localidad": "Posadas",
+        "provincia": "Misiones",
+        "pais": "Argentina",
+        "email": "ventas@donpepito.com",
+        "sitio": "www.donpepito.com",
+    },
+    {
+        "codigo": "emp2114",
+        "nombre": "Supermercado Carlitos",
+        "direccion": "Mendoza 3221",
+        "localidad": "Rosario",
+        "provincia": "Santa Fe",
+        "pais": "Argentina",
+        "email": "email@carlitos.com",
+        "sitio": "www.carlitos.com",
+    },
+    {
+        "codigo": "emp2115",
+        "nombre": "El Pampeano",
+        "direccion": "Eva Peron 122",
+        "localidad": "Rosario",
+        "provincia": "Santa Fe",
+        "pais": "Argentina",
+        "email": "ventas@dominio.com",
+        "sitio": "www.dominio.com",
+    },
+    {
+        "codigo": "emp2116",
+        "nombre": "Carlos Perez",
+        "direccion": "Rioja 762",
+        "localidad": "Posadas",
+        "provincia": "Misiones",
+        "pais": "Argentina",
+        "email": "ventas@perez.com",
+        "sitio": "www.perez.com",
+    }
+]

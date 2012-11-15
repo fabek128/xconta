@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1= title
+  
+  div
+    form(action='/api/cuentas/', method='post')
+                label(for='codigo')
+                    input(id='codigo', name='codigo', type='text', value='')
+                label(for='nombre')
+                    input(id='nombre', name='nombre', type='text', value='')
+
+                input(type='submit', value='Enviar')
